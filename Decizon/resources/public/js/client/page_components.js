@@ -1,0 +1,19 @@
+// Compiled by ClojureScript 0.0-3291 {}
+goog.provide('client.page_components');
+goog.require('cljs.core');
+goog.require('ajax.core');
+goog.require('client.session_mang');
+goog.require('client.decision_support');
+goog.require('om_bootstrap.input');
+goog.require('om_bootstrap.panel');
+goog.require('om.dom');
+goog.require('om_bootstrap.progress_bar');
+goog.require('om_tools.dom');
+goog.require('om_bootstrap.grid');
+goog.require('om_bootstrap.random');
+goog.require('om_bootstrap.nav');
+goog.require('client.tools');
+goog.require('client.persistance');
+goog.require('om.core');
+goog.require('om_bootstrap.button');
+goog.require('om_bootstrap.table');
